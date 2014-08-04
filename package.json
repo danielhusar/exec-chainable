@@ -1,0 +1,29 @@
+{
+  "name": "exec-chainable",
+  "version": "0.0.1",
+  "description": "Exec command and return promise",
+  "keywords": [
+    "exec",
+    "chainable",
+    "promise"
+  ],
+  "scripts": {
+    "test": "mocha -R spec"
+  },
+  "author": {
+    "name": "Daniel Husár",
+    "email": "dano.husar@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/danielhusar/exec-chainable"
+  },
+  "dependencies": {
+    "node.extend": "^1.0.10",
+    "q": "^1.0.1"
+  },
+  "devDependencies": {
+    "mocha": "^1.21.3"
+  },
+  "readmeFilename": "Readme.md"
+}
