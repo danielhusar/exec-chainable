@@ -41,4 +41,4 @@ Command to execute.
 
 ## License
 
-MIT ©
+MIT © [Daniel Husar](https://github.com/danielhusar)
