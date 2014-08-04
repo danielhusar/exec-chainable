@@ -1,6 +1,6 @@
 {
   "name": "exec-chainable",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Exec command and return promise",
   "keywords": [
     "exec",
@@ -19,7 +19,6 @@
     "url": "https://github.com/danielhusar/exec-chainable"
   },
   "dependencies": {
-    "node.extend": "^1.0.10",
     "q": "^1.0.1"
   },
   "devDependencies": {
