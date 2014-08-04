@@ -1,4 +1,4 @@
-# Object cache [![Build Status](https://travis-ci.org/danielhusar/exec-chainable.svg)](https://travis-ci.org/danielhusar/exec-chainable)
+# Exec Chainable [![Build Status](https://travis-ci.org/danielhusar/exec-chainable.svg)](https://travis-ci.org/danielhusar/exec-chainable)
 
 > Exec shell command and return promise so you can chain commands
 

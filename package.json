@@ -1,6 +1,6 @@
 {
   "name": "exec-chainable",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Exec command and return promise",
   "keywords": [
     "exec",
